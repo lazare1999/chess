@@ -1,0 +1,3 @@
+/home/lazo/CLionProjects/chess/cmake-build-debug/CMakeFiles/chess.dir
+/home/lazo/CLionProjects/chess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lazo/CLionProjects/chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
